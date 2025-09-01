@@ -1,5 +1,4 @@
 #!/bin/bash
-# Autor: [mrchangretta]
 # Fecha: 2025-09-01
 
 
